@@ -145,7 +145,7 @@ nav a:last-of-type {
  }
 
  .sessions-item {
-    background-image: url(../image/carti.png);
+    background-image: url(../image/default.png);
     width: 416px;
     height: 258px;
     background-position: center;
